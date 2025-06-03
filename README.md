@@ -1,11 +1,11 @@
 # Loan-Approval-Predictor
-* * Business Understanding * *
+## Business Understanding 
 
-* Problem Statement *
+### Problem Statement 
 
 Financial institutions face challenges in evaluating loan applicants efficiently, resulting in approval delays, high default rates, and potential biases in decision-making. Traditional loan assessment methods often rely on rigid criteria, missing opportunities to leverage alternative data for better risk prediction and fairer outcomes.
 
-* Project Goal *
+### Project Goal 
 
 The Loan Approval Predictor project aims to develop a machine learning model that uses historical loan data and borrower profiles to improve loan approval decisions. By employing classification algorithms, the project seeks to:
 
@@ -19,7 +19,7 @@ The Loan Approval Predictor project aims to develop a machine learning model tha
 
 + Provide interpretable insights into factors influencing loan outcomes.
 
-* Stakeholders *
+### Stakeholders 
 
 - Financial Institutions: Benefit from improved risk assessment and operational efficiency.
 
@@ -29,7 +29,7 @@ The Loan Approval Predictor project aims to develop a machine learning model tha
 
 - Data Scientists: Develop and refine models to support decision-making.
 
-* Expected Outcomes *
+### Expected Outcomes 
 
 + A robust predictive model (prioritizing Random Forest based on initial findings) that outperforms traditional methods.
 
